@@ -1,5 +1,5 @@
-# abstract-headstart
-Abstract - Headstart
+abstract-headstart
+# Abstract - Headstart
 
 Based on "Abstract: True version Control for Sketch Files" at https://www.abstract.com/
 
